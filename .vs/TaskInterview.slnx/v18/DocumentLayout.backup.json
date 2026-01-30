@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sanjeevi\\TaskInterview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\dtos\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\dtos\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\taskinterview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\taskinterview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\models\\eamuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\models\\eamuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|d:\\sanjeevi\\taskinterview\\taskinterview\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91BBBE71-0101-A33D-5C30-918FA75E3E32}|TaskInterview\\TaskInterview.csproj|solutionrelative:taskinterview\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskInterview\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:01:49.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Models\\User.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\User.cs",
+              "RelativeToolTip": "TaskInterview\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:01:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Program.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Program.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Program.cs",
+              "RelativeToolTip": "TaskInterview\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T18:12:10.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskInterview\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:07:36.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "TaskInterview\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:05:06.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskCreateDto.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\DTOs\\TaskCreateDto.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\DTOs\\TaskCreateDto.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\DTOs\\TaskCreateDto.cs",
+              "RelativeToolTip": "TaskInterview\\DTOs\\TaskCreateDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:06:02.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskInterview\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:08:08.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskInterview\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:03:45.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Controllers\\TeamsController.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "TaskInterview\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:10:32.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskInterview\\appsettings.json",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\appsettings.json",
+              "RelativeToolTip": "TaskInterview\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T18:12:23.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskInterview.csproj",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\TaskInterview.csproj",
+              "RelativeDocumentMoniker": "TaskInterview\\TaskInterview.csproj",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\TaskInterview.csproj",
+              "RelativeToolTip": "TaskInterview\\TaskInterview.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T18:04:57.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "TaskInterview\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:11:03.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TaskInterview\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:11:34.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TaskInterview\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:09:21.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Services\\JwtService.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Services\\JwtService.cs",
+              "RelativeToolTip": "TaskInterview\\Services\\JwtService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:06:46.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "TaskInterview\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:05:33.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "eamUser.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\eamUser.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Models\\eamUser.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\eamUser.cs",
+              "RelativeToolTip": "TaskInterview\\Models\\eamUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:02:59.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Models\\Team.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\Team.cs",
+              "RelativeToolTip": "TaskInterview\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:02:36.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Models\\Comment.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Models\\Comment.cs",
+              "RelativeToolTip": "TaskInterview\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:02:12.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TaskInterview\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TaskInterview\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T01:54:08.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskInterview\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\sanjeevi\\TaskInterview\\TaskInterview\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskInterview\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T18:16:52.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
